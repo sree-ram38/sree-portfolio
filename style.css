@@ -28,7 +28,7 @@ header{
 }
 
 nav a{
-    color: rgb(248, 8, 8);
+    color: rgb(248, 242, 242);
     margin-left: 15px;
     text-decoration: none;
 }
@@ -47,9 +47,9 @@ nav a:hover {
 }
 
 .main::before {
-    content: "";
-    width: 200px;
-    height: 200px;
+    content:"";
+    width: 250px;
+    height: 250px;
     background-image: url("image.jpg");
     background-size: cover;
     border-radius: 50%;
